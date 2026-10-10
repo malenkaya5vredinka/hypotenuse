@@ -1,4 +1,4 @@
-#include <iosteam>
+#include <iostream>
 #include "hypotenuse.h"
 
 int main() {
